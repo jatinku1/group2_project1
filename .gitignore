@@ -1,5 +1,7 @@
-#Config files
+#Adding config file
 config.py
+
+#figuring git out
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
